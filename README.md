@@ -161,6 +161,19 @@ CompLA2A/
 
 ---
 
+## Licenza
+
+Copyright (C) 2026 Al Learned Audio Productions
+
+Questo progetto e' distribuito con licenza **GNU Affero General Public License v3.0**
+(AGPLv3): vedere il file [LICENSE](LICENSE).
+
+La scelta deriva da JUCE 8, che nella versione open source e' distribuito proprio con
+licenza AGPLv3: chiunque distribuisca il plugin, anche modificato, deve rendere
+disponibile il codice sorgente con la stessa licenza.
+I componenti esterni hanno licenze compatibili: l'SDK VST3 di Steinberg e' distribuito
+con licenza MIT, l'SDK ASIO con licenza GPLv3 (oppure con licenza proprietaria di Steinberg).
+
 ## Crediti
 
 Sviluppato da **Al Learned Audio Productions**.
